@@ -13,6 +13,9 @@ This project took the code on the client's existing website and improved it to c
 ・Repaired jump link for seo section in nav bar
 ・Added <alt> text to all <section> images and graphics
 
+##Deployed URL for Project
+https://lizfischstix.github.io/liz-refactors-existing-code/
+
 ##Credits
 Starter code and Readme template from Northwestern University/EdEx Full Stack Coding Bootcamp curriculum 
 
